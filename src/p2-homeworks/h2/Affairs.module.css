@@ -1,0 +1,15 @@
+.priorityH {
+    color: red;
+}
+.priorityM {
+    color: orange;
+}
+.priorityL {
+    color: green;
+}
+
+.main{
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+}

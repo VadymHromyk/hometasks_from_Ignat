@@ -1,0 +1,40 @@
+.backgroundcolor {
+    background-color: lightgray;
+}
+
+.message {
+    display: flex;
+    align-items: flex-end;
+    margin: 10px;
+}
+
+.photo img {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    padding-right: 5px;
+}
+
+.square {
+    background-color: #4E5156;
+    border-radius: 10px 10px 10px 10px;
+
+    padding: 10px;
+}
+
+.title {
+    color: fuchsia;
+}
+
+.messageData {
+    color: white;
+
+}
+
+.time{
+    display: flex;
+    justify-content: flex-end;
+    font-size: small;
+    margin-top: 5px;
+}
+
